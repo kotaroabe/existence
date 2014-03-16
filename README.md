@@ -8,5 +8,7 @@ Partlist
 4. SSR (for switching a powersource) 
 5. Light bulbs or lightings with sockets
 
+How to control light bulbs refers to <http://forum.arduino.cc/index.php/topic,12915.0.html> or <http://www.glacialwanderer.com/hobbyrobotics/?p=9>
+
 =========
 unsettled project by Kotaro Abe + Yasuaki Kakehi
